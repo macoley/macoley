@@ -11,10 +11,6 @@ Technologies that I use:
 - C++14/Rust ⚡
 - CSS/SCSS ⚡⚡⚡⚡
 
-📫 How to reach me:
-- my polish blog: blogokodzie.pl
-- my LN: linkedin.com/in/maciejolej
-
 <!--
 **Gareneye/Gareneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
