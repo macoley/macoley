@@ -9,6 +9,7 @@ Technologies that I use:
 - Swift/Obj-C ⚡⚡⚡
 - Unity ⚡⚡
 - C++14/Rust ⚡
+- CSS/SCSS ⚡⚡⚡⚡
 
 📫 How to reach me:
 - my polish blog: blogokodzie.pl
