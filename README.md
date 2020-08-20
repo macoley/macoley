@@ -1,6 +1,6 @@
 ### Hi there, I'm Maciej Olejnik 👋
 
-🔭 I’m React Native and iOS (Swift) Developer from Poland. I used to be Front-end man some time ago, so I have solid background on that.
+🔭 I’m React Native and iOS (Swift) Developer from Poland. I used to be Front-end guy some time ago, and I have solid background on that.
 
 🌱 I’m currently learning Rust and studing architectural things.
 
