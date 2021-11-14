@@ -8,8 +8,9 @@ Technologies that I use:
 - JS_ES6/TS/React/ReactNative ⚡⚡⚡⚡
 - Swift/Obj-C ⚡⚡⚡
 - Unity ⚡⚡
-- Flutter ⚡⚡
 - C++14/Rust ⚡
+- Flutter ⚡
+
 
 <!--
 **Gareneye/Gareneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
