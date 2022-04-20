@@ -1,16 +1,21 @@
-### Hi there, I'm Maciej Olejnik 👋
 
-🔭 I’m React Native and iOS (Swift) Developer from Poland.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1496580/164318522-ba2763b3-b0be-43fe-8642-751c6ce4f441.jpeg" /><br />
+</p>
 
-🌱 I’m currently learning Rust and studing architectural things.
+<p align="center">
+<strong>Hi there, Maciej Olejnik here </strong><br />
+Focused on learning Rust and studing architectural things. 🔭 <br />
+Founder of <a href="https://github.com/bit-about">BitAbout</a> ✨ 
+</p>
 
-Technologies that I use:
-- JS_ES6/TS/React/ReactNative ⚡⚡⚡⚡
-- Swift/Obj-C ⚡⚡⚡
-- Unity ⚡⚡
-- C++14/Rust ⚡
-- Flutter ⚡
 
+```
+- JS / TS / React / ReactNative ⚡⚡⚡⚡
+- Rust ⚡⚡
+- Swift ⚡
+- Unity ⚡
+```
 
 <!--
 **Gareneye/Gareneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
