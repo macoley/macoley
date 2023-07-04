@@ -6,7 +6,7 @@
 <p align="center">
 <strong>Hi there, Maciej Olejnik here </strong><br />
 Focused on learning Rust and studing architectural things. 🔭 <br />
-Founder of <a href="https://github.com/oleystack">oleyStack</a> ✨ 
+Founder of <a href="https://github.com/oleystack">oleystack</a> ✨ 
 <br />
 <br />
 <code>JS / TS</code> &numsp;| &numsp;<code>React / ReactNative</code> &numsp;| &numsp;<code>Rust</code> &numsp;| &numsp;<code>Unity / Three.js</code>
