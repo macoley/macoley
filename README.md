@@ -1,6 +1,6 @@
 # Maciej — Full-Stack Web3 Engineer
 
-> Warsaw, PL · building web3 end to end · open to remote US contracts
+> Warsaw, PL · building web3 end to end · open to part-time remote contracts
 
 Ten years on the web. Spent years as an Typescript/React/ReactNative + iOS/Swift developer,
 now work full-stack on web3 — the dApp frontends people touch and the backends behind them. 
